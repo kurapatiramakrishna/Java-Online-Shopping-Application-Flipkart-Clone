@@ -3,7 +3,8 @@ package Flipkart;
 import java.util.Scanner;
 
 class mainClass{
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         Scanner scan = new Scanner(System.in);
         System.out.println("                 WELCOME TO FLIPKART             ");
         System.out.println("");
